@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ygs:home|Door43 (ygs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ygs|d43-ygs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ygs/archive/master.zip|d43-ygs.zip]]
+
+**Recent Changes**
+{{changes>ns = ygs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ygs|Ethnologue data]]
+
